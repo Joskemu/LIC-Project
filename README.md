@@ -34,5 +34,9 @@ Key Features :-
  **User Interface:**Dashboard: Providing a user-friendly dashboard for easy navigation and access to different features.Visual Elements: Using images and CSS for a visually appealing interface.
 
 How to code use 
+
 Extract zip file(lims.zip) and database put in mysqli(lims.sql).Install Xampp and then open the Xampp(start Apache server and MySQL) then open "localhost/phpmyadmin/" in Chrome Browser.
+
+
+Output of this project 
 

@@ -10,19 +10,19 @@ Key Features :-
 
 4. **Agent Management:-**Files like `addAgent.php`, `editAgent.php`, `deleteAgent.php`, and `agent.php` suggest functionalities for managing agent information.
 
- 5.**Nominee Management:-**`addNominee.php`, `editNominee.php`, `deleteNominee.php`, and `nominee.php` for managing nominee details.  
+5.**Nominee Management:-**`addNominee.php`, `editNominee.php`, `deleteNominee.php`, and `nominee.php` for managing nominee details.  
 
- 6.**Payment Management:-**`addPayment.php`, `editPayment.php`, `deletePayment.php`, `payment.php`, and `insertPayment.php` for handling payment information.
+6.**Payment Management:-**`addPayment.php`, `editPayment.php`, `deletePayment.php`, `payment.php`, and `insertPayment.php` for handling payment information.
 
- 7.**Database Interaction:-**`connection.php` for database connection settings.The database directory, likely containing database-related files.
+7.**Database Interaction:-**`connection.php` for database connection settings.The database directory, likely containing database-related files.
 
- 8.**Search and Navigation:-**`search.php` for search functionality.`header.php` and home.php for navigating through the application.
+8.**Search and Navigation:-**`search.php` for search functionality.`header.php` and home.php for navigating through the application.
 
- 9.**Documentation and Licensing:-**`README.md` probably contains documentation or instructions.`LICENSE` file specifying the terms of use.
+9.**Documentation and Licensing:-**`README.md` probably contains documentation or instructions.`LICENSE` file specifying the terms of use.
 
- 10.**Styling and Layout:**`Untitled-1.css` for CSS styling.
+10.**Styling and Layout:**`Untitled-1.css` for CSS styling.
 
- 11.**Uploads Directory:**`uploads` directory might be for storing uploaded files.
+11.**Uploads Directory:**`uploads` directory might be for storing uploaded files.
 
 
  Aim of this project 
